@@ -28,11 +28,7 @@ The Sierpiński triangle is a fractal with the following properties:
 
 To run the program, type the following in a terminal window:
 
-    'python sierpinski.py'
-    
-or    
-
-    'python3 sierpinski.py'
+    python sierpinski.py
 
 ## What does the program do?
 
